@@ -1,0 +1,15 @@
+{
+  "short_name": "reVined",
+  "name": "reVined",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3BBD55",
+  "background_color": "#3BBD55"
+}
