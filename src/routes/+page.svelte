@@ -36,7 +36,7 @@
         return match?.[1];
     }
 
-    function handleEvent(e) {
+    function handleEvent(e: any) {
         if (e.kind !== 34236) return;
 
         const tags = e.tags || [];
